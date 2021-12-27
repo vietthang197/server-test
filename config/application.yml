@@ -1,0 +1,7 @@
+server:
+  port: 8000
+spring:
+  config:
+    location: config/
+logging:
+  config: config/log4j2.xml

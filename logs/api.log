@@ -1,0 +1,66 @@
+2021-12-27 10:27:39.259 | vn.neo.App | main | INFO | Starting App using Java 1.8.0_221 on DESKTOP-32E6N18 with PID 1544 (D:\du an\ocs\ocs-dev\group-code-thanglv\server-test\target\classes started by acer in D:\du an\ocs\ocs-dev\group-code-thanglv\server-test)
+2021-12-27 10:27:39.268 | vn.neo.App | main | INFO | No active profile set, falling back to default profiles: default
+2021-12-27 10:27:41.102 | vn.neo.App | main | INFO | Started App in 2.453 seconds (JVM running for 3.741)
+2021-12-27 10:28:04.896 | vn.neo.App | main | INFO | Starting App using Java 1.8.0_221 on DESKTOP-32E6N18 with PID 15780 (D:\du an\ocs\ocs-dev\group-code-thanglv\server-test\target\classes started by acer in D:\du an\ocs\ocs-dev\group-code-thanglv\server-test)
+2021-12-27 10:28:04.911 | vn.neo.App | main | INFO | No active profile set, falling back to default profiles: default
+2021-12-27 10:28:06.755 | vn.neo.App | main | INFO | Started App in 2.796 seconds (JVM running for 7.967)
+2021-12-27 10:28:32.026 | vn.neo.App | main | INFO | Starting App using Java 1.8.0_221 on DESKTOP-32E6N18 with PID 852 (D:\du an\ocs\ocs-dev\group-code-thanglv\server-test\target\classes started by acer in D:\du an\ocs\ocs-dev\group-code-thanglv\server-test)
+2021-12-27 10:28:32.030 | vn.neo.App | main | INFO | No active profile set, falling back to default profiles: default
+2021-12-27 10:28:33.835 | vn.neo.App | main | INFO | Started App in 2.41 seconds (JVM running for 3.956)
+2021-12-27 10:28:47.624 | vn.neo.App | main | INFO | Starting App using Java 1.8.0_221 on DESKTOP-32E6N18 with PID 18336 (D:\du an\ocs\ocs-dev\group-code-thanglv\server-test\target\classes started by acer in D:\du an\ocs\ocs-dev\group-code-thanglv\server-test)
+2021-12-27 10:28:47.628 | vn.neo.App | main | INFO | No active profile set, falling back to default profiles: default
+2021-12-27 10:28:49.397 | vn.neo.App | main | INFO | Started App in 2.372 seconds (JVM running for 3.827)
+2021-12-27 10:30:52.263 | vn.neo.App | main | INFO | Starting App using Java 1.8.0_221 on DESKTOP-32E6N18 with PID 20848 (D:\du an\ocs\ocs-dev\group-code-thanglv\server-test\target\classes started by acer in D:\du an\ocs\ocs-dev\group-code-thanglv\server-test)
+2021-12-27 10:30:52.269 | vn.neo.App | main | INFO | No active profile set, falling back to default profiles: default
+2021-12-27 10:30:54.512 | vn.neo.App | main | INFO | Started App in 2.922 seconds (JVM running for 4.311)
+2021-12-27 10:31:01.967 | vn.neo.App | main | INFO | Starting App using Java 1.8.0_221 on DESKTOP-32E6N18 with PID 14500 (D:\du an\ocs\ocs-dev\group-code-thanglv\server-test\target\classes started by acer in D:\du an\ocs\ocs-dev\group-code-thanglv\server-test)
+2021-12-27 10:31:01.972 | vn.neo.App | main | INFO | No active profile set, falling back to default profiles: default
+2021-12-27 10:31:03.869 | vn.neo.App | main | INFO | Started App in 2.609 seconds (JVM running for 4.644)
+2021-12-27 10:31:53.519 | vn.neo.App | main | INFO | Starting App using Java 1.8.0_221 on DESKTOP-32E6N18 with PID 22244 (D:\du an\ocs\ocs-dev\group-code-thanglv\server-test\target\classes started by acer in D:\du an\ocs\ocs-dev\group-code-thanglv\server-test)
+2021-12-27 10:31:53.524 | vn.neo.App | main | INFO | No active profile set, falling back to default profiles: default
+2021-12-27 10:31:55.613 | vn.neo.App | main | INFO | Started App in 2.873 seconds (JVM running for 4.357)
+2021-12-27 10:38:25.558 | vn.neo.App | main | INFO | Starting App using Java 1.8.0_221 on DESKTOP-32E6N18 with PID 14196 (D:\du an\ocs\ocs-dev\group-code-thanglv\server-test\target\classes started by acer in D:\du an\ocs\ocs-dev\group-code-thanglv\server-test)
+2021-12-27 10:38:25.561 | vn.neo.App | main | INFO | No active profile set, falling back to default profiles: default
+2021-12-27 10:38:27.387 | vn.neo.App | main | INFO | Started App in 2.415 seconds (JVM running for 3.898)
+2021-12-27 10:39:04.862 | vn.neo.controller.HomeController | nioEventLoopGroup-2-4 | INFO | Request: <rm>
+    <rf>OK</rf>
+</rm>
+2021-12-27 10:39:04.862 | vn.neo.controller.HomeController | nioEventLoopGroup-2-3 | INFO | Request: <rm>
+    <rf>OK</rf>
+</rm>
+2021-12-27 10:39:05.193 | vn.neo.controller.HomeController | nioEventLoopGroup-2-5 | INFO | Request: <rm>
+    <rf>OK</rf>
+</rm>
+2021-12-27 10:39:05.646 | vn.neo.controller.HomeController | nioEventLoopGroup-2-6 | INFO | Request: <rm>
+    <rf>OK</rf>
+</rm>
+2021-12-27 10:39:45.477 | vn.neo.controller.HomeController | nioEventLoopGroup-2-7 | INFO | Request: <rm>
+    <rf>OK</rf>
+</rm>
+2021-12-27 10:39:45.818 | vn.neo.controller.HomeController | nioEventLoopGroup-2-8 | INFO | Request: <rm>
+    <rf>OK</rf>
+</rm>
+2021-12-27 10:40:28.264 | vn.neo.controller.HomeController | nioEventLoopGroup-2-9 | INFO | Request: <rm>
+    <rf>OK</rf>
+</rm>
+2021-12-27 10:40:30.285 | vn.neo.controller.HomeController | nioEventLoopGroup-2-10 | INFO | Request: <rm>
+    <rf>OK</rf>
+</rm>
+2021-12-27 10:40:30.865 | vn.neo.controller.HomeController | nioEventLoopGroup-2-11 | INFO | Request: <rm>
+    <rf>OK</rf>
+</rm>
+2021-12-27 10:40:31.327 | vn.neo.controller.HomeController | nioEventLoopGroup-2-12 | INFO | Request: <rm>
+    <rf>OK</rf>
+</rm>
+2021-12-27 10:40:32.951 | vn.neo.controller.HomeController | nioEventLoopGroup-2-13 | INFO | Request: <rm>
+    <rf>OK</rf>
+</rm>
+2021-12-27 10:40:33.519 | vn.neo.controller.HomeController | nioEventLoopGroup-2-14 | INFO | Request: <rm>
+    <rf>OK</rf>
+</rm>
+2021-12-27 10:40:33.990 | vn.neo.controller.HomeController | nioEventLoopGroup-2-15 | INFO | Request: <rm>
+    <rf>OK</rf>
+</rm>
+2021-12-27 10:40:34.450 | vn.neo.controller.HomeController | nioEventLoopGroup-2-16 | INFO | Request: <rm>
+    <rf>OK</rf>
+</rm>
